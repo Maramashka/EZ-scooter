@@ -1,6 +1,8 @@
 ﻿
 # Яндекс.Прилавок. Автотесты
 
+Тестовый стенд https://{id}.serverhub.praktikum-services.ru/
+
 Автотест на проверку эндпоинта POST /api/v1/orders на создание заказа
 и эндпоинта GET /api/v1/orders/track на получение заказа.
 

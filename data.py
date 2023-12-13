@@ -12,22 +12,22 @@ CLIENT_BODY = {
     ]
 }
 
-ORDER_BODY = {
-    "order": {
-        "id": 2,
-        "firstName": "Naruto",
-        "lastName": "Uzumaki",
-        "address": "Kanoha, 142 apt.",
-        "phone": "+7 800 355 35 35",
-        "metroStation": "1",
-        "rentTime": 5,
-        'deliveryDate': "2020-06-06T00:00:00.000Z",
-        "track": 521394,
-        "status": 1,
-        "color": [
-            "BLACK"
-        ],
-        "comment": "Saske, come back to Kanoha", #удаляем косячные поля :)
-        "courierFirstName": "Kaneki"
-    }
+ORDER_BODY =   {
+         "order": {
+             "id": 2,
+             "firstName": "Naruto",
+             "lastName": "Uzumaki",
+             "address": "Kanoha, 142 apt.",
+             "metroStation": "1",
+             "phone": "+7 800 355 35 35",
+             "rentTime": 5,
+             "deliveryDate": "2020-06-06T00:00:00.000Z",
+             "track": 521394,
+             "status": 1,
+             "color": [
+                 "BLACK"
+             ],
+             "comment": "Saske, come back to Kanoha",
+             "courierFirstName": "Kaneki"
+  }
 }
